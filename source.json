@@ -1,0 +1,34 @@
+{
+  "name": "DAYLY di Roberto",
+  "identifier": "com.roberto.dayly.source",
+  "subtitle": "La mia app personale",
+  "description": "Sorgente personale per installare DAYLY con AltStore.",
+  "iconURL": "https://raw.githubusercontent.com/robberto77/dayly-altstore/main/icon.png",
+  "website": "https://github.com/robberto77/dayly-altstore",
+  "apps": [
+    {
+      "name": "DAYLY",
+      "bundleIdentifier": "com.roberto.robistant",
+      "developerName": "Roberto",
+      "subtitle": "Agenda, note, notizie e meteo",
+      "localizedDescription": "DAYLY: assistente personale con agenda, promemoria, note, notizie e meteo.",
+      "iconURL": "https://raw.githubusercontent.com/robberto77/dayly-altstore/main/icon.png",
+      "tintColor": "000000",
+      "category": "productivity",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-17",
+          "localizedDescription": "Prima versione.",
+          "downloadURL": "https://github.com/robberto77/dayly-altstore/releases/download/v1.0/DAYLY.ipa",
+          "size": 20000000,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": { "entitlements": [], "privacy": {} }
+    }
+  ],
+  "news": []
+}
